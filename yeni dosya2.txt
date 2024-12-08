@@ -21,3 +21,4 @@ gamdg
 galög
 gasdg 
 neden olmuyosun neden
+internet bağlantılı
